@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building scalable full-stack applications and improving my backend development skills with modern technologies.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web development (MERN stack), and innovative AI-based applications.<br><br>🤝 I’m looking for help with<br>System design, scalable architectures, and advanced backend optimizations.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, Node.js, system design, and cloud technologies.<br><br>💬 Ask me about<br>JavaScript, web development, backend systems, and problem-solving strategies.<br><br>⚡ Fun fact<br>I enjoy breaking down complex problems into simple solutions and can spend hours debugging like a detective 🕵️‍♂️
-
+Hi! I’m Mayank, a passionate full-stack developer who loves bringing ideas to life on the web. I enjoy building interactive 3D web designs and exploring modern technologies like JavaScript and Node.js. Outside of coding, I’m an avid reader of manga and comic books, which inspires my creativity and attention to detail in design. I love combining my technical skills with my love for storytelling to create engaging digital experiences. Always curious and eager to learn, I’m open to collaborations and enjoy solving challenging problems while experimenting with new web technologies.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mayank Shrey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreymayank403@gmail.com) 
