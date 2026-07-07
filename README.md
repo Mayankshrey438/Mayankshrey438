@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi! I’m Mayank, a passionate full-stack developer who loves bringing ideas to life on the web. I enjoy building interactive 3D web designs and exploring modern technologies like JavaScript and Node.js. Outside of coding, I’m an avid reader of manga and comic books, which inspires my creativity and attention to detail in design. I love combining my technical skills with my love for storytelling to create engaging digital experiences. Always curious and eager to learn, I’m open to collaborations and enjoy solving challenging problems while experimenting with new web technologies.
+Hi! I’m Mayank, a passionate full-stack developer who loves bringing ideas to life on the web. I can build anything 
 
 
 # 💻 Tech Stack:
