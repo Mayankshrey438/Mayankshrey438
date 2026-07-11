@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-- 🎓 Final-year **B.Tech CSE** student at **MSIT, Delhi** — CGPA **8.42**
+- 🎓Graduated - **B.Tech CSE** :  **MSIT, Delhi** — CGPA **8.7**
 - 💼 Currently a **Software Developer Intern @ VoyIndia** — shipping production-grade features
 - 🧠 I build the layer where AI stops being an experiment and becomes something users can actually touch
 - ⚡ Cut API inference latency by **60%** at AI-Shala Technologies through pipeline redesign
