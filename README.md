@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayank Shrey 👋</h1>
-<h3 align="center">Full-Stack Engineer building products where AI meets real users</h3>
+<h3 align="center">Full-Stack & Machine Learning Engineer — building products where AI meets real users and the world of Artifical Intellignece </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Backend+APIs+serving+live+ML+models;React+%2B+FastAPI+%2B+PyTorch+%2B+TensorFlow;Final+Year+CSE+%40+MSIT+Delhi+(8.42+CGPA)" alt="Typing SVG" />
@@ -15,12 +15,12 @@
 
 ### 💡 About Me
 
-- 🎓 Final-year **B.Tech CSE** student at **MSIT, Delhi** — CGPA **8.42**
+- 🎓 Graduated - **B.Tech CSE** student at **MSIT, Delhi** — CGPA **8.7**
 - 💼 Currently a **Software Developer Intern @ VoyIndia** — shipping production-grade features
 - 🧠 I build the layer where AI stops being an experiment and becomes something users can actually touch
 - ⚡ Cut API inference latency by **60%** at AI-Shala Technologies through pipeline redesign
 - 🌱 Currently building a **GitHub clone from scratch** (Git smart-HTTP protocol on Express.js) and **CodeSage**, an AI-powered PR review tool using LangGraph + Tree-sitter + RAG
-- 🔭 Actively looking for full-time **SDE-1 / AI Engineering** roles starting mid-2026
+  
 
 ---
 
