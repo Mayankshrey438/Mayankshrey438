@@ -126,7 +126,7 @@ Predicts next-action, purchase intent, and churn probability from sequential use
   <img src="https://raw.githubusercontent.com/Mayankshrey438/Mayankshrey438/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚙️ Note: this animates automatically once you add the `platane/snk` GitHub Action to this repo — it commits a fresh SVG to an `output` branch daily. Ask me for the workflow file if you want it set up.
+
 
 ---
 
