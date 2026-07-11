@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayank Shrey 👋</h1>
-<h3 align="center">Full-Stack & Machine Learning Engineer — building products where AI meets real users and the world of Artifical Intellignece </h3>
+<h3 align="center">Full-Stack Engineer building products where AI meets real users</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Backend+APIs+serving+live+ML+models;React+%2B+FastAPI+%2B+PyTorch+%2B+TensorFlow;Final+Year+CSE+%40+MSIT+Delhi+(8.42+CGPA)" alt="Typing SVG" />
@@ -15,12 +15,12 @@
 
 ### 💡 About Me
 
-- 🎓 Graduated - **B.Tech CSE** student at **MSIT, Delhi** — CGPA **8.7**
+- 🎓 Final-year **B.Tech CSE** student at **MSIT, Delhi** — CGPA **8.42**
 - 💼 Currently a **Software Developer Intern @ VoyIndia** — shipping production-grade features
 - 🧠 I build the layer where AI stops being an experiment and becomes something users can actually touch
 - ⚡ Cut API inference latency by **60%** at AI-Shala Technologies through pipeline redesign
 - 🌱 Currently building a **GitHub clone from scratch** (Git smart-HTTP protocol on Express.js) and **CodeSage**, an AI-powered PR review tool using LangGraph + Tree-sitter + RAG
-  
+- 🔭 Actively looking for full-time **SDE-1 / AI Engineering** roles starting mid-2026
 
 ---
 
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=&message=Qdrant&color=DC244C&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=n8n&color=EA4B71&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
@@ -116,6 +116,27 @@ Predicts next-action, purchase intent, and churn probability from sequential use
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayankshrey438&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayankshrey438/Mayankshrey438/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ Note: this animates automatically once you add the `platane/snk` GitHub Action to this repo — it commits a fresh SVG to an `output` branch daily. Ask me for the workflow file if you want it set up.
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-shrey-0a85a837b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shreymayank403@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mayankshrey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Mayankshrey438"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
