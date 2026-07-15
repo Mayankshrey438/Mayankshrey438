@@ -18,7 +18,6 @@
 - 🎓Graduated - **B.Tech CSE** :  **MSIT, Delhi**  CGPA **8.7**
 - 💼 Currently a **Software Developer Intern @ VoyIndia**  shipping production-grade features
 - 🧠 I build the layer where AI stops being an experiment and becomes something users can actually touch
-- ⚡ Cut API inference latency by **60%** at AI-Shala Technologies through pipeline redesign
 - 🌱 Currently building a **GitHub clone from scratch** (Git smart-HTTP protocol on Express.js) and **CodeSage**, an AI-powered PR review tool using LangGraph + Tree-sitter + RAG
 - 🔭 Actively looking for full-time **SDE-1 / AI Engineering** roles starting mid-2026
 
