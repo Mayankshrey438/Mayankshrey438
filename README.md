@@ -14,12 +14,11 @@
 ---
 
 ### 💡 About Me
-
-- 🎓Graduated - **B.Tech CSE** :  **MSIT, Delhi**  CGPA **8.7**
-- 💼 Currently a **Software Developer Intern @ VoyIndia**  shipping production-grade features
-- 🧠 I build the layer where AI stops being an experiment and becomes something users can actually touch
-- 🌱 Currently building a **GitHub clone from scratch** (Git smart-HTTP protocol on Express.js) and **CodeSage**, an AI-powered PR review tool using LangGraph + Tree-sitter + RAG
-- 🔭 Actively looking for full-time **SDE-1 / AI Engineering** roles starting mid-2026
+🎓 B.Tech CSE, MSIT Delhi  graduated with an 8.7 CGPA
+💼 Software Developer Intern @Voy , shipping production-grade features that real users depend on great with my techstack.
+🧠 I don't just prototype AI  I build the layer where it stops being a demo and becomes something people can actually use
+🌱 Currently building CodeSage, an AI-powered PR review tool (LangGraph + Tree-sitter + RAG), and a GitHub clone from scratch implementing the Git smart-HTTP protocol on Express.js
+🔭 Open to full-time SDE-1 / AI Engineering roles ReachOut at shreymayank403@gmail.com
 
 ---
 
