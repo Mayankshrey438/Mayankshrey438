@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <video src="assets/caf0542637bff1925db17df7f6fbbfcf.mp4" controls width="700"></video>
+</p>
+
+<p align="center">
   <a href="https://mayankshrey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayank-shrey-0a85a837b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shreymayank403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
