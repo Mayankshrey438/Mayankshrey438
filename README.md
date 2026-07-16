@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <video src="assets/caf0542637bff1925db17df7f6fbbfcf.mp4" controls width="700"></video>
+  <video src="caf0542637bff1925db17df7f6fbbfcf.mp4" controls width="700"></video>
 </p>
 
 <p align="center">
