@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <video src="caf0542637bff1925db17df7f6fbbfcf.mp4" controls width="700"></video>
+  <img src="caf0542637bff1925db17df7f6fbbfcf-ezgif.com-video-to-gif-converter.gif" width="900" alt="Portfolio Demo"/>
 </p>
 
 <p align="center">
