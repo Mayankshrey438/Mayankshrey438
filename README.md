@@ -121,7 +121,30 @@ Predicts next-action, purchase intent, and churn probability from sequential use
 </p>
 
 ---
+### 💻 LeetCode
 
+<p align="center">
+  <a href="https://leetcode.com/u/Mayankshrey123/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mayankshrey123?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mayankshrey123?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Mayankshrey123&theme=dark"/>
+</p>
+```
+
+
+
+______
 ### 🐍 Contribution Snake
 
 <p align="center">
