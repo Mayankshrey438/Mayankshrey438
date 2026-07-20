@@ -129,9 +129,7 @@ Predicts next-action, purchase intent, and churn probability from sequential use
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mayankshrey123?theme=dark&font=Baloo&ext=contest"/>
-</p>
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Mayankshrey123?theme=dark&font=Baloo&ext=heatmap"/>
