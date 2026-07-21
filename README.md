@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Backend+APIs+serving+live+ML+models;React+%2B+FastAPI+%2B+PyTorch+%2B+TensorFlow)" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="caf0542637bff1925db17df7f6fbbfcf-ezgif.com-video-to-gif-converter.gif" width="900" alt="Portfolio Demo"/>
-</p>
+
 
 <p align="center">
   <a href="https://mayankshrey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
