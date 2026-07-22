@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayank Shrey 👋</h1>
-<h3 align="center">Full-Stack Engineer building products where AI meets real users</h3>
+<h3 align="center">Full-Stack Engineer building products/softwares where AI meets real users</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Backend+APIs+serving+live+ML+models;React+%2B+FastAPI+%2B+PyTorch+%2B+TensorFlow)" alt="Typing SVG" />
