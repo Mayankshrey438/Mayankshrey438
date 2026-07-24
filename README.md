@@ -19,11 +19,11 @@
 
 ### 💡 About Me
 
-- 🎓 B.Tech CSE, MSIT Delhi — graduated with an 8.7 CGPA
-- 💼 Software Developer Intern @ Voy — shipping production-grade features real users depend on
-- 🧠 I don't just prototype AI — I build the layer where it stops being a demo and starts being usable
+- 🎓 B.Tech CSE, MSIT Delhi  graduated with an 8.7 CGPA
+- 💼 Software Developer Intern @ Voy  shipping production-grade features real users depend on
+- 🧠 I don't just prototype AI  I build the layer where it stops being a demo and starts being usable
 - 🔬 Also building from first principles: implementing Git internals and Indic-language neural architectures from scratch instead of stopping at API wrappers
-- 🔭 Open to full-time SDE-1 / AI Engineering roles from mid-2026 — reach out at shreymayank403@gmail.com
+- 🔭 Open to full-time SDE-1 / AI Engineering roles from mid-2026  reach out at shreymayank403@gmail.com
 
 ---
 
