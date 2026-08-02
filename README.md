@@ -153,9 +153,7 @@ Full write-ups, live demos, and additional experiments — including n8n/AI auto
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayankshrey438/Mayankshrey438/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 ---
 
